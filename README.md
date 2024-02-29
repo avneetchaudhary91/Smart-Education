@@ -28,6 +28,8 @@ Research and Planning Phase:
 You can explore courses in any sector.
 You can explore latest videos of lectures and read article.
 Good Source to learn online.
+![WhatsApp Image 2024-03-01 at 00 33 17_0673f62a](https://github.com/avneetchaudhary91/Smart-Education/assets/151816163/aa16a0ad-aa46-4982-895b-8955979a50c7)
+
 
 ## Flowchart
 1. User lands on the smart education site homepage
